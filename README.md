@@ -44,7 +44,7 @@ Telegram Trigger (on message)
 
 ## Demo
 
-A short screen recording showing the workflow processing a receipt photo end-to-end (Telegram → Gemini → Sheets → Drive) is included in this repo: (demo/telegram-photo-processing-demo.mp4)
+A short screen recording showing the workflow processing a receipt photo end-to-end (Telegram → Gemini → Sheets → Drive) is included in this repo: [`demo/telegram-photo-processing-demo.mp4`](demo/telegram-photo-processing-demo.mp4)
 
 ## Design Notes
 
